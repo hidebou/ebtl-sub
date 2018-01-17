@@ -3,7 +3,7 @@ class TopController < ApplicationController
   end
   
   def test
-    @msg = "this is test page." # TODO:あとでcrawlを入れ込む
+    @msg = "this is test page ." # TODO:あとでcrawlを入れ込む
   end
 
 end
